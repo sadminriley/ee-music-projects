@@ -24,7 +24,11 @@ This was inspired by one of their many example repos that can be found [here.](h
 
 
 
-## Pictures
 
-<img src="https://user-images.githubusercontent.com/25120457/229812950-88e1e997-2a1f-4c1d-bb9c-957fef7412fb.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/25120457/229812965-ed85331b-9062-48a7-8b13-bebf7d2bcf3b.png" width="90%"></img>
+## Breadboard
+<img src="https://user-images.githubusercontent.com/25120457/229812950-88e1e997-2a1f-4c1d-bb9c-957fef7412fb.png" width="90%"></img>
+
+
+## Schematics
+<img src="https://user-images.githubusercontent.com/25120457/229812965-ed85331b-9062-48a7-8b13-bebf7d2bcf3b.png" width="90%"></img>
 
