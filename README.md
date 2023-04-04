@@ -8,7 +8,7 @@ I highly recommend Daisy framework for anyone looking to make music and combine 
 ## Daisy Projects
 
 ### Basic kick/snare with 2 buttons and a knob to control the Oscillator
-[README Instructions and Code](./drum-osc/)
+[README Instructions and Code](./drum-osc/README.md)
 
 
 
